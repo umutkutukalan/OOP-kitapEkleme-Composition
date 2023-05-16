@@ -4,7 +4,7 @@ public class fiyat {
 	private double fiyat;
 	
 	// CONSTRUCTORS
-	public fiyat(int fiyat) {
+	public fiyat(double fiyat) {
 		this.fiyat = fiyat;
 	}
 	
